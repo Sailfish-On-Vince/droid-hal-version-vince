@@ -4,7 +4,8 @@
 %define rpm_vendor xiaomi
 # Manufacturer and device name to be shown in UI
 %define vendor_pretty Xiaomi
-%define device_pretty Redmi 5 Plus (vince)
+%define device_pretty Redmi 5 Plus
+%define rpm_device vince
 # See ../droid-hal-version/droid-hal-device.inc for similar macros:
 %define have_vibrator_native 1
 %define have_led 1
